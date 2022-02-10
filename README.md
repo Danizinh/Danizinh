@@ -23,11 +23,11 @@ let = {
 ```
 
  
-
- ![github contribution grid snake animation](github.com/Danizinh/output/github-contribution-grid-snake.svg)
-
-
-_generated with [Platane/snk](https://github.com/Platane/snk)_
+<div align="center">
+  
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
 
 
 

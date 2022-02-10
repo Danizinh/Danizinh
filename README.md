@@ -18,7 +18,7 @@ let = {
   "Language": [HTML,CSS,JAVASCRIPT,PYTHON,MYSQL],
   "Framework":[BOOTSTRAP]
   "PRE-PROCESSOR-CSS":[SASS]
-  "college": ["System development analysis"],
+  "COLLEGE": ["System development analysis"],
   }
 ```
 

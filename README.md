@@ -15,7 +15,7 @@ let = {
   "Name":[Daniela],
   "Country":[Brazil],
   "City":[Sao Paulo - SP],
-  "Language": [HTML,CSS,JAVASCRIPT,PYTHON,MYSQL],
+  "Language": [HTML,CSS,JAVASCRIPT,PYTHON],
   "Framework":[BOOTSTRAP]
   "PRE-PROCESSOR-CSS":[SASS]
   "COLLEGE": ["System development analysis"],

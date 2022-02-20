@@ -17,7 +17,7 @@ let = {
   "City":[Sao Paulo - SP],
   "Language": [HTML,CSS,JAVASCRIPT,PYTHON],
   "Framework":[BOOTSTRAP]
-  "PRE-PROCESSOR-CSS":[SASS]
+  "PRE-PROCESSOR-CSS":[SASS,SCSS]
   "COLLEGE": ["System development analysis"],
   }
 ```

@@ -16,7 +16,6 @@ let = {
   "Country":[Brazil],
   "City":[Sao Paulo - SP],
   "Language": [HTML,CSS,JAVASCRIPT,PYTHON,MYSQL,SQL],
-  "COLLEGE": ["System development analysis"],
   }
 ```
 

@@ -2,11 +2,9 @@
 #  (❁´◡`❁) Print("Welcome beautiful People") 🦁
 
 
-My name is Daniela
- I'm 22 years old
-this is little of my knowledge
-WELCOME all meet one of the best parts of me
-
+My name is Daniela, I'm 23 years old, i'm developer,
+this it is me
+WELCOME meet one of the best parts of me
 
 
 ```python

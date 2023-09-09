@@ -12,7 +12,7 @@ let = {
   "Name":[Daniela],
   "Country":[Brazil],
   "City":[Sao Paulo - SP],
-  "Language": [HTML,CSS,JAVASCRIPT,MYSQL,SQL,PHP,GIT,GITHUB],
+  "Language": [HTML,CSS,MYSQL,SQL,PHP,GIT,GITHUB,REACT,POO],
   }
 ```
 

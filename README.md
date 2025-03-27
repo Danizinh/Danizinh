@@ -45,6 +45,7 @@ Modelagem preditiva • Redes neurais • Treinamento e avaliação de modelos
 
 <small>
 English – Pré-Intermediário  
+  
 Espanhol – Básico
 </small>
 
